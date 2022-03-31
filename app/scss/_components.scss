@@ -1,0 +1,78 @@
+.container{
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+}
+
+.container--hero{
+    padding: 0;
+}
+
+// .container--alt{
+//     margin: 0 auto;
+//     padding: 0 1rem;
+// }
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.step{
+    margin: 3rem 0;
+}
+
+.btn{
+    display: inline-block;
+    padding: .5rem 1rem;
+    border-radius: .5rem;
+    background-color: var(--clr-accent);
+    color: var(--clr-text-alt);
+    font-family: var(--font-text);
+    font-size: var(--fs-text);
+}
+
+.btn--sign{
+    padding: .5rem 1rem;
+    background-color: transparent;
+    color: var(--clr-text);
+    font-family: var(--font-text);
+    font-size: var(--fs-text);
+}
+
+.title{
+    font-family: var(--font-title);
+    font-size: var(--fs-h2);
+    font-weight: var(--fw-title);
+    color: var(--clr-accent);
+}
+
+.title--alt{
+    margin-bottom: 1rem;
+    color: var(--clr-text-alt);
+}
+
+.subtitle{
+    font-family: var(--font-title);
+    font-size: var(--fs-steps);
+    font-weight: var(--fw-text);
+    color: var(--clr-accent);
+    opacity: .3;
+}
+
+.text{
+    font-family: var(--font-text);
+    font-size: var(--fs-text);
+    font-weight: var(--fwtext);
+    color: var(--clr-text);
+}
+.text--alt{
+    color: var(--clr-text-alt);
+}
+
+.label{
+    margin-bottom: 2rem;
+    font-family: var(--font-text);
+    font-size: var(--fs-label);
+    font-weight: var(--fw-label);
+    color: var(--clr-text);
+}
