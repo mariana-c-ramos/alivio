@@ -1,7 +1,5 @@
 # Alivio | Landing Page with HTML and Sass/CSS
 
-This is my 2º version of a landing page to the company Alivio
-
 ## Table of contents
 
 - [Alivio | Landing Page with HTML and Sass/CSS](#alivio--landing-page-with-html-and-sasscss)
@@ -20,17 +18,17 @@ This is my 2º version of a landing page to the company Alivio
 This was a simple project to train my skills and knowledge in HTML and CSS.
 The main goal is to increase complexity and add more dynamics to the project with each version, finalizing with a full project with HTML, CSS and JavaScript.
 
-### Screenshots of the Project
+### Recording of the Project
 
-![Laptop View](assets/screenshots/1.png)
-![Landscape Tablet View](assets/screenshots/2.png)
-![Portrait Tablet View](assets/screenshots/3.png)
+- Mobile View
+- Tablet View
+- Laptop View
 
 ### Links
 
-- Solution URL: [Link](https://mariana-c-ramos.github.io/alivio2/)
-- Project Repository URL: [Link](https://github.com/mariana-c-ramos/alivio2)
-- Figma Design URL: [Link](https://www.figma.com/file/NB7pP44unamchPZfrlldK8/Mariana-Landing-Page?node-id=0%3A1)
+- Solution URL: [Link](https://mariana-c-ramos.github.io/alivio/)
+- Project Repository URL: [Link](https://github.com/mariana-c-ramos/alivio)
+- Figma Design URL: [Link](https://www.figma.com/file/09q8zCo3MEtqu9PXIljmvD/Full-Version-of-Alivio's-LP?node-id=0%3A1)
 
 ### Built with
 
@@ -39,6 +37,7 @@ The main goal is to increase complexity and add more dynamics to the project wit
 - HTML5
 - Sass
 - CSS
+- JavaScript
 
 ### What I learned
 
@@ -48,9 +47,6 @@ I tried to play around a bit with media queries, with tablet mode, both portrait
 With this project I also understood the importance of going mobile-first and how media queries get so much easier in that order - will do that in the next projects.
 
 ### Next Steps
-
-- Mobile view
-- Add dynamics with JavaScript
 
 ### Useful resources
 
