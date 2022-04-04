@@ -7,11 +7,6 @@
     padding: 0;
 }
 
-// .container--alt{
-//     margin: 0 auto;
-//     padding: 0 1rem;
-// }
-
 .row{
     display: flex;
     flex-direction: row;
@@ -75,4 +70,41 @@
     font-size: var(--fs-label);
     font-weight: var(--fw-label);
     color: var(--clr-text);
+}
+
+video{
+    width: 300px;
+}
+
+img{
+    width: 200px;
+}
+
+@media(min-width: 600px){
+
+    .container{
+        margin: 0 auto;
+        padding: 2rem 4rem;
+    }
+
+    .container--alt{
+        margin: 0 auto;
+        padding: 2rem 3rem;
+    }
+
+}
+
+@media(min-width:800px){
+    .step{
+        margin: 0;
+    }
+}
+
+@media(min-width: 1060px){
+
+    .container--alt{
+        margin: 0 auto;
+        padding: 2rem 5rem;
+    }
+
 }
