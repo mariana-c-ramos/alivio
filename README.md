@@ -9,7 +9,6 @@
     - [Links](#links)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
-    - [Next Steps](#next-steps)
     - [Useful resources](#useful-resources)
   - [Author](#author)
 
