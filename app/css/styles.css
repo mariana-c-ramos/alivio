@@ -289,7 +289,7 @@ body {
   justify-content: center;
   padding-top: 80px;
   height: 80vh;
-  background-image: url("../../../assets/img/hero-bg.png");
+  background-image: url("../../assets/img/hero-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
