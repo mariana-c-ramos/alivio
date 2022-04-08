@@ -489,7 +489,7 @@ body {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
     padding-top: 80px;
-    height: 60vh;
+    height: 80vh;
     background-image: url("../../assets/img/hero-bg-alt.png");
     background-repeat: no-repeat;
     background-position: center;
