@@ -7,6 +7,7 @@
   - [Overview](#overview)
     - [Screenshots of the Project](#screenshots-of-the-project)
     - [Links](#links)
+  - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Useful resources](#useful-resources)
@@ -28,6 +29,8 @@ The main goal is to increase complexity and add more dynamics to the project wit
 - Solution URL: [Link](https://mariana-c-ramos.github.io/alivio/)
 - Project Repository URL: [Link](https://github.com/mariana-c-ramos/alivio)
 - Figma Design URL: [Link](https://www.figma.com/file/09q8zCo3MEtqu9PXIljmvD/Full-Version-of-Alivio's-LP?node-id=0%3A1)
+
+## My process
 
 ### Built with
 
