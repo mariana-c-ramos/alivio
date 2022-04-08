@@ -46,8 +46,6 @@ I understood that I was over complicating my sass file by defining fixed widths 
 I tried to play around a bit with media queries, with tablet mode, both portrait and landscaspe fully done. Still finishing the mobile one.
 With this project I also understood the importance of going mobile-first and how media queries get so much easier in that order - will do that in the next projects.
 
-### Next Steps
-
 ### Useful resources
 
 - [Grid vs Flexbox](https://www.youtube.com/watch?v=3elGSZSWTbM&t=1015s) - This helped me making the layout of the page better, while using flexbox in more appropriate elements.
